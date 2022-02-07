@@ -1,1 +1,2 @@
 faces/ filter=lfs diff=lfs merge=lfs -text
+celebfacesa.zip filter=lfs diff=lfs merge=lfs -text
